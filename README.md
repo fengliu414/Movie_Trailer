@@ -31,7 +31,6 @@ of Movie instances and use API from fresh_tomatoes.py to create and
 open a website.
 <br />
 <br />
-<br />
 
 ##### Example: entertainment_center.py
 ```
