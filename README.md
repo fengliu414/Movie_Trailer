@@ -24,7 +24,7 @@ In command window, navigate to the folder where entertainment_enter.py
 is located, <br />
 then type ```python entertainment_center.py```
 
- ##### How to customize the code for use:
+##### How to customize the code for use:
 The Movie class is defined in media.py and instances of Movie
 class are generated in entertainment_center.py. Construct a list
 of Movie instances and use API from fresh_tomatoes.py to create and
@@ -33,7 +33,7 @@ open a website.
 <br />
 <br />
 
- ##### Example: entertainment_center.py
+##### Example: entertainment_center.py
 ```
 import media
 import fresh_tomatoes
