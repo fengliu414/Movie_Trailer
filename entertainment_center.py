@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+
 lala_land = media.Movie('La La Land',
     'Exploration of the joy and pain of pursuing your dreams',
     'http://www.filmpro.sk/files/plagat/llland_teaser_sk.jpg',
